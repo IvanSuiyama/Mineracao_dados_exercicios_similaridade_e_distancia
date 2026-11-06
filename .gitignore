@@ -1,0 +1,10 @@
+# Arquivos locais que não devem ser versionados
+Lista_Exercicios_Similaridade_Distancia.pdf
+repo.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
